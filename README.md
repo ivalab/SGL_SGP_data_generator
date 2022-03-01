@@ -23,9 +23,9 @@ python ./script/picknplace_task_json_gen.py path_to_saving_folder
 ```
 Then there are two types of scripts for each task; one is for generating vision-complete scenarios and the other one is for generating vision-incomplete scenarios.
 Taking the former one for example,
-'''
+```
 python ./script/picknplace_task_generation.py path_to_saving_folder
-'''
+```
 You could specify the starting and ending index for floorplan, the number of generated data, whether randomize material, whether randomize lighting and etc. 
 
 ## License
