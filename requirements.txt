@@ -1,0 +1,4 @@
+numpy
+ai2thor
+opencv-python
+argparse
