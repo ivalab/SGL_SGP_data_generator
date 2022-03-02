@@ -1,5 +1,5 @@
 # SGL_SGP_data_generator
-Data generator, based on AI2THOR, is proposed for automatically generate data with ground-truth for symbolic goal learning and scene graph parsing tasks.
+Data generator, based on AI2THOR, is proposed for automatically generate data with ground-truth for [symbolic goal learning](https://github.com/ivalab/mmf) and scene graph parsing tasks.
 
 ## Installation
 0. Create a new conda enviroment
